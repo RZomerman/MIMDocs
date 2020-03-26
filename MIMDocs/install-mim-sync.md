@@ -87,7 +87,7 @@ To install Microsoft Identity Manager 2016 components, first set up the installa
 
     4. Connector Browse = *contoso\MIMSyncBrowse*
 
-    5. WMI Password Management= *contoso\MIMSyncPasswordReset*
+    5. WMI Password Management= *contoso\MIMSyncPasswordset*
 
     ![Security groups image](media/MIM-Install5.png)
 
