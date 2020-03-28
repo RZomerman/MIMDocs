@@ -64,7 +64,7 @@ When you configure a MIM management agent, you need to specify a user account. T
 
     -   Database: FIMService
 
-    -   MIM Service base address: http://localhost:5725
+    -   MIM Service base address: http://mim.contoso.com:5725
 
     -   Authentication mode: Windows integrated authentication
 
@@ -218,6 +218,9 @@ The Active Directory management agent is a connector for AD Domain Services. To 
     -   sn
     -   unicodePwd
     -   userAccountControl
+    -   userPrincipalName
+    
+   
 
 8. On the **Configure Connector Filter** page, click **Next**.
 
